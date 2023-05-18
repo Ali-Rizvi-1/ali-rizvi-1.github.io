@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ali / Site Title"
+title                    : "Ali / portfolio"
 title_separator          : "-"
 name                     : &name "Syed Muhammad Ali Rizvi"
 description              : &description "Machine Learning Engineer"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Syed Muhammad Ali Rizvi"
+  avatar           : "Me.jpeg"
+  bio              : "Biography: An ML Engineer looking forward to exciting challenges!"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "alirizvi277@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
