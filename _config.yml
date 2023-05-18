@@ -84,7 +84,7 @@ author:
   avatar           : "Me.jpeg"
   bio              : "Biography: An ML Engineer looking forward to exciting challenges!"
   location         : "Location"
-  employer         :
+  employer         : "https://www.beam.ai/"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "alirizvi277@gmail.com"
