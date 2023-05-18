@@ -85,10 +85,10 @@ author:
   bio              : "Biography: An ML Engineer looking forward to exciting challenges!"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "alirizvi277@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Syed-Muhammad-Ali-Rizvi"
   uri              :
   bitbucket        :
   codepen          :
