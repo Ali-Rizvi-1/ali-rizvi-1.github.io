@@ -12,13 +12,14 @@ redirect_from:
 Education
 ======
 * B.S. in Electrical Engineering, Habib University, 2022
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Pre-Engineering, Adamjee Govt. Science College, 2018
+<!-- * M.S. in Jekyll, GitHub University, 2014 -->
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Oct. 2022 - Present: Machine Learning Engineer
+  * Beam
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 

@@ -86,9 +86,9 @@ author:
   location         : "Location"
   employer         : "https://www.beam.ai/"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "alirizvi277@gmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Syed-Muhammad-Ali-Rizvi"
+  researchgate     : "https://www.researchgate.net/profile/Syed-Muhammad-Ali-Rizvi"
   uri              :
   bitbucket        :
   codepen          :
