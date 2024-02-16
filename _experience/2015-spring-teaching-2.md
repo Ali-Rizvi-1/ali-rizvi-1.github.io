@@ -1,20 +1,20 @@
 ---
-title: "Work experience 2"
+title: "Machine Learning Engineer"
 collection: experience
-type: "Workshop"
+type: "Machine Learning Team"
 permalink: /experience/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Beam"
+date: 2022-10-28
+location: "(Remote) Karachi, Pakistan"
 ---
 
-This is a description of a work experience. You can use markdown like any other post.
+This page will contain the detail description of the work I have been doing at Beam.
 
-Heading 1
+Digital AI Avatars
 ======
 
-Heading 2
+Expert AI Workflows
 ======
 
-Heading 3
+Agent OS Work
 ======

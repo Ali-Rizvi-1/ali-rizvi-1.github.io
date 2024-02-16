@@ -1,20 +1,20 @@
 ---
-title: "Work experience 1"
+title: "Habib University Research Assistant" #"Work experience 1"
 collection: experience
-type: "Undergraduate course"
+type: "Karachi Water Project"
 permalink: /experience/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Habib University"
+date: 2022-05-23
+location: "Karachi, Pakistan"
 ---
 
-This is a description of a work experience. You can use markdown like any other post.
+This page will contain the details on the work I was included in during my tenure as a Research Assistant in the HEC funded NRPU project, called 'Karachi Water Project'.
 
-Heading 1
+Project Overview
 ======
 
-Heading 2
+Significance and Impact
 ======
 
-Heading 3
+My Role and Work
 ======
